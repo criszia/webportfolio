@@ -1,0 +1,77 @@
+* {
+	font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+nav {
+	font-family: 'Roboto', sans-serif;
+	background-color: #ecc8af;
+	position: fixed;
+	padding: 0.8rem;
+  	border-bottom: 1px solid black;
+  	list-style-type: none;
+ 	padding:  8px;
+ 	font-weight: bold;
+}
+nav .navbar-brand {
+  text-align: left;
+  position: sticky;
+
+
+}
+nav .nav, nav .navbar-nav {
+  position: sticky;
+
+}
+
+body {
+	background-image: url(https://t4.ftcdn.net/jpg/04/58/20/09/360_F_458200985_t0HdGcD6BfzturnfxNqGbm00cKBCmram.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100vw;
+	height: 100vh;
+
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 20px;
+	text-align: right;
+}
+
+.blockquote {
+	font-family: 'Tangerine', cursive;
+	text-align: left;
+	align-items: center;	
+}
+
+
+.card-body {
+	background-color: #F4EEE1;
+/*	height: 50%;*/
+}
+
+.container-fluid {
+
+}
+
+#gallery {
+	background-image: url(https://t3.ftcdn.net/jpg/04/91/91/36/360_F_491913694_vOTBQiNE0Pvr6CpLjEs7rmIqS7yVAIe0.jpg); 
+	background-repeat: no-repeat; 
+	background-size: cover; 
+	width: 100vw; 
+	height: 100vh;
+}
+
+#pre-footer {
+  display: inline-block;
+  vertical-align: bottom;
+  width: 100%;
+  margin-top: 50px;
+  margin-left: 0px;
+  background-color: #023047;
+  color: white;
+  font-size: 16px;
+}
+
+
